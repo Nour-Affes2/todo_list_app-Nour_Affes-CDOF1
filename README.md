@@ -20,7 +20,7 @@ Python 3.x
 4. Run the script by executing:
    python project.py
 
-##Usage
+## Usage
 1. Upon running the application, you will be presented with a menu.
 2. Choose an option by entering the corresponding number.
 3. Follow the prompts to manage your tasks.
